@@ -1,0 +1,12 @@
+﻿country;customer;revenue;iso
+Germany;S;1500;GER
+Germany;R;400;GER
+Germany;B;100;GER
+Germany;O;600;GER
+Austria;O;1700;AUT
+Austria;B;300;AUT
+France;B;650;FRA
+France;R;900;FRA
+Spain;S;1100;ESP
+Portugal;S;2000;PRT
+Portugal;R;350;PRT
